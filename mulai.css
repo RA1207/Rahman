@@ -1,0 +1,11 @@
+#loading {
+      position: fixed;
+      left: 50%;
+      width: 400px;
+      margin-left: -250px;
+      top: 50%;
+      height: 400px;
+      margin-top: -50px;
+      transition-timing-function: 2;
+
+    }
